@@ -1,0 +1,769 @@
+,speaker,sentence,gold,cluster tokens,cluster
+0,Trump,"Thank you very much, Chris.",0,thank chris,0
+1,Trump,I will tell you very simply.,0,tell simply,0
+2,Trump,We won the election.,1,win election,5
+3,Trump,Elections have consequences.,1,election consequence,5
+4,Trump,"We have the Senate, we have the White House, and we have a phenomenal nominee respected by all.",1,senate white house phenomenal nominee respect,2
+5,Trump,"Top, top academic, good in every way.",1,academic good way,2
+6,Trump,Good in every way.,1,good way,2
+7,Trump,"In fact, some of her biggest endorsers are very liberal people from Notre Dame and other places.",0,fact big endorser liberal people notre dame place,7
+8,Trump,So I think she's going to be fantastic.,0,think go fantastic,9
+9,Trump,We have plenty of time.,1,plenty time,2
+10,Trump,Even if we did it after the election itself.,1,election,5
+11,Trump,"I have a lot of time after the election, as you know.",0,lot time election know,8
+12,Trump,So I think that she will be outstanding.,0,think outstanding,9
+13,Trump,She's going to be as good as anybody that has served on that court.,0,go good anybody serve court,2
+14,Trump,We really feel that.,0,feel,2
+15,Trump,"We have a professor at Notre Dame, highly respected by all, said she's the single greatest student he's ever had.",0,professor notre dame highly respect say single great student,2
+16,Trump,He's been a professor for a long time at a great school.,0,professor long time great school,2
+17,Trump,"And we won the election and therefore we have the right to choose her, and very few people knowingly would say otherwise.",1,win election right choose people knowingly,7
+18,Trump,"And by the way, the Democrats, they wouldn't even think about not doing it.",0,way democrats think,9
+19,Trump,The only difference is they'd try and do it faster.,0,difference try fast,8
+20,Trump,There's no way they would give it up.,0,way,2
+21,Trump,"They had Merrick Garland, but the problem is they didn't have the election so they were stopped.",0,merrick garland problem election stop,5
+22,Trump,"And probably that would happen in reverse, also.",0,probably happen reverse,2
+23,Trump,Definitely would happen in reverse.,0,definitely happen reverse,2
+24,Trump,"So we won the election and we have the right to do it, Chris.",0,win election right chris,5
+25,Trump,"Thank you, Joe.",0,thank joe,0
+26,Trump,There aren't a hundred million people with pre-existing conditions.,1,million people pre existing condition,7
+27,Trump,"As far as a say is concerned, the people already had their say.",1,far concern people,7
+28,Trump,"Okay, Justice Ginsburg said very powerfully, very strongly, at some point 10 years ago or so, she said a President and the Senate is elected for a period of time, but a President is elected for four years.",1,okay justice ginsburg say powerfully strongly point year ago say president senate elect period time president elect year,1
+29,Trump,We're not elected for three years.,1,elect year,1
+30,Trump,I'm not elected for three years.,0,elect year,1
+31,Trump,"So we have the Senate, we have a President-",0,senate president,2
+32,Trump,"During that period of time, during that period of time, we have an opening.",0,period time period time opening,2
+33,Trump,I'm not elected for three years.,0,elect year,1
+34,Trump,I'm elected for four years.,1,elect year,1
+35,Trump,"Joe, the hundred million people is totally wrong.",0,joe million people totally wrong,7
+36,Trump,I don't know where you got that number.,0,know get,6
+37,Trump,"The bigger problem that you have is that you're going to extinguish 180 million people with their private health care, that they're very happy this.",1,big problem go extinguish million people private health care happy,7
+38,Trump,"Well, you're certainly going to socialist.",0,certainly go socialist,2
+39,Trump,You're going to socialist-,0,go socialist,2
+40,Trump,That's not what you've said and it's not what your party is saying.,0,say party say,4
+41,Trump,Your party doesn't say it.,0,party,2
+42,Trump,Your party wants to go socialist medicine and socialist healthcare.,0,party want socialist medicine socialist healthcare,5
+43,Trump,"And they're going to dominate you, Joe.",0,go dominate joe,2
+44,Trump,You know that.,0,know,6
+45,Trump,Not according to Harris.,0,accord harris,2
+46,Trump,"Joe, you've had 308,000 military people dying because you couldn't provide them proper healthcare in the military.",0,joe military people die provide proper healthcare military,7
+47,Trump,So don't tell me about this.,0,tell,0
+48,Trump,"And if you were here, it wouldn't be 200, it would be two million people because you were very late on the draw.",0,million people late draw,7
+49,Trump,"You didn't want me to ban China, which was heavily infected.",0,want ban china heavily infect,5
+50,Trump,You didn't want me to ban Europe.,0,want ban europe,5
+51,Trump,"You would have been much later, Joe, much later.",0,later joe later,2
+52,Trump,We're talking about two million people.,0,talk million people,7
+53,Trump,You don't know what's on the ballot.,0,know ballot,6
+54,Trump,Why is it on the ballot?,0,ballot,2
+55,Trump,Why is it on the ballot?,0,ballot,2
+56,Trump,It's not on the ballot.,0,ballot,2
+57,Trump,I don't think so.,0,think,9
+58,Trump,There's nothing happening there.,0,happen,2
+59,Trump,You don't know her view on Roe V. Wade?,0,know view roe v wade,2
+60,Trump,You don't know here view.,0,know view,6
+61,Trump,That's right.,0,right,2
+62,Trump,Because they want to give good healthcare.,0,want good healthcare,5
+63,Trump,"Yes, I have.",0,yes,2
+64,Trump,"Of course, I have.",0,course,2
+65,Trump,The individual mandate.,0,individual mandate,2
+66,Trump,Excuse me.,0,excuse,2
+67,Trump,"I got rid of the individual mandate, which was a big chunk of Obamacare.",0,get rid individual mandate big chunk obamacare,2
+68,Trump,That is absolutely a big thing.,0,absolutely big thing,2
+69,Trump,That was the worst part of Obamacare.,0,bad obamacare,2
+70,Trump,"Chris, that was the worst part of Obamacare.",0,chris bad obamacare,0
+71,Trump,"Well, I'll ask Joe.",0,ask joe,0
+72,Trump,The individual mandate was the most unpopular aspect of Obamacare.,1,individual mandate unpopular aspect obamacare,2
+73,Trump,I got rid of it.,1,get rid,2
+74,Trump,And we will protect people.,1,protect people,7
+75,Trump,Go ahead.,0,ahead,2
+76,Trump,"Well, first of all, I guess I'm debating you, not him, but that's okay.",0,guess debate okay,2
+77,Trump,I'm not surprised.,0,surprised,2
+78,Trump,Let me just tell you something.,0,let tell,0
+79,Trump,There's nothing symbolic.,1,symbolic,2
+80,Trump,I'm cutting drug prices.,1,cut drug price,2
+81,Trump,"I'm going with Favored Nations, which no President has the courage to do because you're going against big pharma.",1,go favored nation president courage go big pharma,2
+82,Trump,Drug prices will be coming down 80 or 90%.,1,drug price come,2
+83,Trump,"You could have done it during your 47 year period in government, but you didn't do it.",0,year period government,1
+85,Trump,So we're cutting healthcare.,1,cut healthcare,2
+86,Trump,All of the things that we've done.,0,thing,2
+87,Trump,I'll give you an example.,0,example,2
+88,Trump,"Insulin, it was destroying families, destroying people, the cost.",1,insulin destroy family destroy people cost,7
+89,Trump,"I'm getting it for so cheap it's like water, you want to know the truth.",1,get cheap water want know truth,5
+90,Trump,So cheap.,0,cheap,2
+91,Trump,Take a look at all of the drugs that what we're doing.,0,look drug,2
+92,Trump,"Prescription drug prices, we're going to allow our Governors now to go to other countries to buy drugs because when they paid just a tiny fraction of what we do.",1,prescription drug price go allow governor country buy drug pay tiny fraction,2
+93,Trump,This is big stuff.,0,big stuff,2
+94,Trump,"That's not what your party says, by the way.",0,party say way,4
+95,Trump,"Joe, you agreed with Bernie Sanders, who's far left, on the manifesto, we call it.",0,joe agree bernie sander far leave manifesto,2
+96,Trump,And that gives you socialized medicine.,0,give socialized medicine,2
+97,Trump,Are you saying you didn't agree?,0,say agree,4
+98,Trump,If Pocahontas would have left two days early you would have lost every primary.,0,pocahontas leave day early lose primary,2
+99,Trump,"On Super Tuesday, you got very lucky.",0,super tuesday get lucky,2
+100,Trump,But you agree.,0,agree,2
+101,Trump,"Joe, you're the liar.",0,joe liar,2
+102,Trump,You graduated last in your class not first in your class.,0,graduate class class,2
+103,Trump,You'd be surprised.,0,surprised,2
+104,Trump,You'd be surprised.,0,surprised,2
+105,Trump,"Go ahead, Joe.",0,ahead joe,2
+106,Trump,"Listen, you agreed with Bernie Sanders and the manifesto.",0,listen agree bernie sander manifesto,2
+107,Trump,He just lost the left.,0,lose left,2
+108,Trump,You just lost the left.,0,lose left,2
+109,Trump,"You agreed with Bernie Sanders on a plan that you absolutely agreed to and under that plan  , they call it socialized medicine.",0,agree bernie sander plan absolutely agree plan socialize medicine,2
+110,Trump,"Who is, Bernie?",0,bernie,2
+111,Trump,"No, I want to give them better healthcare at a much lower price, because Obamacare is no good.",1,want well healthcare low price obamacare good,5
+112,Trump,I've already fixed it.,0,fix,2
+113,Trump,We've already fixed it to an extent.,0,fix extent,2
+114,Trump,"Obamacare, as you might know but probably don't, Obamacare is no good.",0,obamacare know probably obamacare good,2
+115,Trump,Obamacare is no good.,1,obamacare good,2
+116,Trump,We made it better and I had a choice to make very early on.,1,well choice early,2
+117,Trump,We took away the individual mandate.,0,take away individual mandate,2
+118,Trump,"We guaranteed pre-existing conditions, but took away the individual mandate.",1,guarantee pre existing condition take away individual mandate,2
+119,Trump,"Listen, this is the way it is.",0,listen way,2
+120,Trump,And that destroyed ...,0,destroy,2
+121,Trump,"They shouldn't even call it Obamacare, then I had a choice to make, do I let my people run it really well or badly?",0,obamacare choice let people run badly,0
+122,Trump,"If I run it badly, they'll probably blame him, but they'll blame me.",0,run badly probably blame blame,2
+123,Trump,"But more importantly, I want to help people.",0,importantly want help people,7
+124,Trump,Okay.,0,okay,2
+125,Trump,"I said, You've got to run it so well.",0,say get run,4
+126,Trump,And I just had a meeting with them.,0,meeting,2
+127,Trump,"They said the problem is, no matter how well you run Obamacare, it's a disaster.",1,say problem matter run obamacare disaster,4
+128,Trump,It's too expensive.,1,expensive,2
+129,Trump,"Premiums are too high, that it doesn't work.",1,premium high work,2
+130,Trump,So we do want to get rid of it.,0,want rid,5
+131,Trump,"Chris, we want to get rid of that and give something that's cheaper and better.",1,chris want rid cheap well,5
+132,Trump,Go ahead.,0,ahead,2
+133,Trump,Good.,0,good,2
+134,Trump,"Of course, we do.",0,course,2
+135,Trump,Are you going to pack the court?,0,go pack court,2
+136,Trump,Are you going to pack the court?,0,go pack court,2
+137,Trump,He doesn't want to answer the question.,0,want answer question,5
+138,Trump,Why wouldn't you answer that question?,0,answer question,2
+139,Trump,You want to put a lot of new Supreme Court Justices.,0,want lot new supreme court justice,8
+140,Trump,Radical left.,0,radical left,2
+141,Trump,"Listen, who is on your list, Joe?",0,listen list joe,2
+142,Trump,Who's on your list?,0,list,2
+143,Trump,He's going to pack the court.,0,go pack court,2
+144,Trump,He is not going to give a list.,0,go list,2
+145,Trump,"The people understand, Joe.",0,people understand joe,7
+146,Trump,"47 years, you've done nothing.",0,year,1
+147,Trump,They're understand.,0,understand,2
+148,Trump,Wrong.,0,wrong,9
+149,Trump,Wrong.,0,wrong,9
+150,Trump,It's so wrong.,0,wrong,9
+151,Trump,"So, if we would have listened to you.",0,listen,2
+152,Trump,"If we would've listened to you, the country would have been left wide open, millions of people would have died, not 200,000.",1,listen country leave wide open million people die,7
+153,Trump,And one person is too much.,1,person,2
+154,Trump,It's China's fault.,0,china fault,2
+155,Trump,It should have never happened.,0,happen,2
+156,Trump,"They stopped it from going in, but it was China's fault.",1,stop go china fault,2
+157,Trump,"And, by the way, when you talk about numbers, you don't know how many people died in China.",0,way talk know people die china,7
+158,Trump,You don't know how many people died in Russia.,0,know people die russia,7
+159,Trump,You don't know how many people died in India.,0,know people die india,7
+160,Trump,"They don't exactly give you a straight count, just so you understand.",0,exactly straight count understand,2
+161,Trump,"But if you look at what we've done, I closed it and you said, He's xenophobic.",0,look close say xenophobic,4
+162,Trump,"He's a racist and he's xenophobic, because you didn't think I should have closed our country.",0,racist xenophobic think close country,9
+163,Trump,Wait a minute.,0,wait minute,2
+164,Trump,You didn't think we should have closed our country because you thought it was terrible.,1,think close country think terrible,9
+165,Trump,You wouldn't have closed it for another two months.,1,close month,2
+166,Trump,"By my doing it early, in fact, Dr. Fauci said, President Trump saved thousands of lives.",1,early fact dr fauci say president trump save thousand life,4
+167,Trump,"Many of your Democrat Governors said, President Trump did a phenomenal job.",0,democrat governor say president trump phenomenal job,4
+168,Trump,We worked with the Governor.,0,work governor,2
+169,Trump,"Oh really, go take a look.",0,look,2
+170,Trump,The Governors said I did a phenomenal job.,0,governor say phenomenal job,4
+171,Trump,Most of them said that.,0,say,4
+172,Trump,"In fact, people that would not be necessarily on my side said that, President Trump did a phenomenal job.",1,fact people necessarily say president trump phenomenal job,4
+174,Trump,We got the gowns.,1,get gown,2
+175,Trump,We got the masks.,1,get mask,2
+176,Trump,We made the ventilators.,1,ventilator,2
+177,Trump,You wouldn't have made ventilators.,0,ventilator,2
+178,Trump,And now we're weeks away from a vaccine.,1,week away vaccine,2
+179,Trump,We're doing therapeutics already.,1,therapeutic,2
+180,Trump,Fewer people are dying when they get sick.,1,few people die sick,7
+181,Trump,Far fewer people are dying.,0,far few people die,7
+182,Trump,We've done a great job.,1,great job,2
+183,Trump,"The only thing I haven't done a good job, and that's because of the fake news, no matter what you say to them, they give you a bad press on it.",0,thing good job fake news matter bad press,2
+184,Trump,It's just fake news.,0,fake news,2
+185,Trump,"They give you good press, they give me bad press because that's the way it is, unfortunately.",0,good press bad press way unfortunately,2
+186,Trump,But let me just say something.,0,let,0
+187,Trump,I don't care.,0,care,2
+188,Trump,I've gotten used to it.,0,get,2
+189,Trump,"But I'll tell you, Joe, you could never have done the job that we did.",0,tell joe job,0
+190,Trump,You don't have it in your blood.,0,blood,2
+191,Trump,"You could've never done that, Joe.",0,joe,0
+192,Trump,"Well, you didn't do very well in Swine Flu.",0,swine flu,2
+193,Trump,"H1-N1, you were a disaster.",0,h n disaster,2
+194,Trump,Your own Chief of Staff said you were a disaster.,0,chief staff say disaster,4
+195,Trump,"A far less lethal disease, by the way.",0,far lethal disease way,2
+196,Trump,"We would have lost far more people, far more people.",0,lose far people far people,7
+197,Trump,You would have been months late.,0,month late,2
+198,Trump,"You're months behind me, Joe.",0,month joe,2
+199,Trump,"You don't trust Johnson & Johnson, Pfizer?",0,trust johnson johnson pfizer,2
+200,Trump,"Well, I've spoken to the companies and we can have it a lot sooner.",0,speak company lot soon,8
+201,Trump,It's a very political thing because people like this would rather make it political than save lives.,0,political thing people political save life,7
+202,Trump,It is a very political thing.,0,political thing,2
+203,Trump,"I've spoken to Pfizer, I've spoken to all of the people that you have to speak to, Moderna, Johnson & Johnson, and others.",1,speak pfizer speak people speak moderna johnson johnson,2
+204,Trump,They can go faster than that by a lot.,1,fast lot,8
+205,Trump,"It's become very political because the left... Or I don't know if I call them left, I don't know what I call them.",0,political left know leave know,6
+206,Trump,I disagree with him.,0,disagree,2
+207,Trump,"No, I disagree with both of them.",0,disagree,2
+209,Trump,"He said it could be there, but it could also be much sooner.",0,say soon,4
+210,Trump,I had him in my office two days ago.,0,office day ago,2
+211,Trump,Because he said it's a possibility that we'll have the answer before November 1st.,0,say possibility answer november st,4
+213,Trump,"Well, we're going to deliver it right away.",1,go deliver right away,2
+214,Trump,We have the military all set up.,1,military set,2
+215,Trump,"Logistically, they're all set up.",0,logistically set,2
+216,Trump,"We have our military that delivers soldiers and they can do 200,000 a day.",1,military deliver soldier day,2
+217,Trump,They're going to be delivering-,0,go delivering,2
+218,Trump,It's all set up.,0,set,2
+219,Trump,"That was said sarcastically, and you know that.",0,say sarcastically know,4
+220,Trump,That was said sarcastically.,0,say sarcastically,4
+221,Trump,You'll have the vaccine sooner than that.,0,vaccine soon,2
+222,Trump,We spoke to the scientists that are in charge-,0,speak scientist charge,2
+223,Trump,... they will have the vaccine very soon.,0,vaccine soon,2
+224,Trump,Did you use the word smart?,0,use word smart,2
+225,Trump,"So you said you went to Delaware State, but you forgot the name of your college.",0,say go delaware state forget college,4
+226,Trump,You didn't go to Delaware State.,0,delaware state,2
+227,Trump,You graduated either the lowest or almost the lowest in your class.,0,graduate low low class,2
+228,Trump,Don't ever use the word smart with me.,0,use word smart,2
+229,Trump,Don't ever use that word.,0,use word,2
+230,Trump,Because you know what?,0,know,6
+231,Trump,"There's nothing smart about you, Joe.",0,smart joe,2
+232,Trump,47 years you've done nothing.,0,year,1
+233,Trump,"Let me just tell you something, Joe.",0,let tell joe,0
+234,Trump,"If you would have had the charge of what I was put through, I had to close the greatest economy of the history of our country.",1,charge close great economy history country,2
+235,Trump,"And by the way, now it's being built again and it's going up fast.",1,way build go fast,8
+236,Trump,Okay.,0,okay,2
+237,Trump,It's going up fast.,0,go fast,8
+238,Trump,I look forward to talking about it.,0,look forward talk,2
+239,Trump,Tell that to Nancy Pelosi.,0,tell nancy pelosi,0
+240,Trump,"Tell that to Nancy Pelosi, and Schumer   Chuck.",0,tell nancy pelosi schumer chuck,0
+241,Trump,"You probably play more than I do, Joe.",0,probably play joe,2
+242,Trump,"Well, he wants to shut down this country and I want to keep it open, and we did a great thing by shutting it down-",1,want shut country want open great thing shut down,5
+243,Trump,"Wait a minute, Joe.",0,wait minute joe,0
+244,Trump,"Let me shut you down for a second, Joe, just for one second.",0,let shut second joe second,0
+245,Trump,He wants to shut down the country.,0,want shut country,5
+246,Trump,We just went through it.,1,go,2
+247,Trump,"We had to, because we didn't know anything about the disease.",1,know disease,6
+248,Trump,"Now we've found that elderly people with heart problems and diabetes and different problems are very, very vulnerable.",1,find elderly people heart problem diabetes different problem vulnerable,7
+249,Trump,We learned a lot.,0,learn lot,8
+250,Trump,"Young children aren't, even younger people aren't.",1,young child young people,7
+251,Trump,"We've learned a lot, but he wants to shut it down.",1,learn lot want shut,8
+252,Trump,More people will be hurt by continuing.,1,people hurt continue,7
+253,Trump,"If you look at Pennsylvania, if you look at certain states that have been shut down, they have Democrat governors, all, one of the reasons they shut down is because they want to keep it shut down until after the election on November 3rd.",0,look pennsylvania look certain state shut democrat governor reason shut want shut election november rd,5
+254,Trump,Because it's a political thing.,0,political thing,2
+255,Trump,But those states-,0,states,2
+256,Trump,Those states are not doing well that are shut down right now.,0,state shut right,5
+257,Trump,He wants to shut down the whole country.,0,want shut country,5
+258,Trump,"No, I think masks are okay.",1,think mask okay,9
+259,Trump,"You have to understand, if you look...",0,understand look,2
+260,Trump,"I mean, I have a mask right here.",0,mean mask right,2
+261,Trump,I put a mask on when I think I need it.,1,mask think need,9
+262,Trump,"Tonight, as an example, everybody's had a test and you've had social distancing and all of the things that you have to, but I wear masks-",1,tonight example everybody test social distancing thing wear masks,2
+263,Trump,... when needed.,0,need,2
+264,Trump,"When needed, I wear masks.",0,need wear mask,2
+265,Trump,I don't wear a mask like him.,0,wear mask,2
+266,Trump,"Every time you see him, he's got a mask.",0,time get mask,2
+267,Trump,He could be speaking 200 feet away from him and he shows up with the biggest mask I've ever seen.,0,speak foot away show big mask see,2
+268,Trump,I will say this-,0,this,2
+269,Trump,And they've also said the opposite.,0,say opposite,4
+270,Trump,They've also said-,0,said,2
+271,Trump,Dr. Fauci.,0,dr fauci,2
+272,Trump,Dr. Fauci said the opposite.,0,dr fauci say opposite,4
+273,Trump,"He said very strongly, Masks are not good.",0,say strongly mask good,4
+274,Trump,Then he changed his mind.,0,change mind,2
+275,Trump,"He said, Masks are good.",0,say mask good,4
+276,Trump,I'm okay with masks.,1,okay mask,2
+277,Trump,I'm not fighting masks.,1,fight mask,2
+278,Trump,Outside.,0,outside,2
+279,Trump,"Well, it's true.",0,true,2
+280,Trump,Nobody shows up to his rallies.,0,show rally,2
+281,Trump,Because people want to hear what I have to say.,0,people want hear,7
+282,Trump,I mean-,0,mean,2
+284,Trump,"I'm doing my job as a president, and I'll have 25, 35,000 people show up at airports.",0,job president people airport,7
+285,Trump,We use airports and hangers and we have a lot of people-,0,use airport hanger lot people,8
+286,Trump,"Well, so far we have had no problem whatsoever.",0,far problem whatsoever,2
+287,Trump,It's outside.,0,outside,2
+288,Trump,That's a big difference according to the experts.,0,big difference accord expert,2
+289,Trump,"We do them outside, we have tremendous crowds, as you see, and literally on 24 hours notice.",0,outside tremendous crowd literally hour notice,2
+290,Trump,And Joe does the circles and has three people someplace.,0,joe circle people someplace,7
+291,Trump,We've had no negative effect.,0,negative effect,2
+292,Trump,"We've had no negative effect, and we've had 35, 40,000 people at these rallies.",0,negative effect people rally,7
+293,Trump,"If you could get the crowds, you would have done the same thing.",0,crowd thing,2
+295,Trump,Nobody cares.,0,care,2
+296,Trump,No cares.,0,care,2
+297,Trump,Yes.,0,yes,2
+298,Trump,Much faster.,0,fast,8
+299,Trump,So we built the greatest economy in history.,1,build great economy history,2
+300,Trump,We closed it down because of the China plague.,0,close china plague,2
+301,Trump,"When the plague came in, we closed it down, which was very hard psychologically to do.",1,plague come close hard psychologically,2
+302,Trump,He didn't think we should close it down and he was wrong.,1,think close wrong,9
+303,Trump,"Again, two million people would be dead now instead of...",1,million people dead instead,7
+304,Trump,"Still, 204,000 people is too much.",1,people,7
+305,Trump,One person is too much.,0,person,2
+306,Trump,Should have never happened from China.,1,happen china,2
+307,Trump,But what happened is we closed it down and now we're reopening and we're doing record business.,1,happen close reopen record business,2
+308,Trump,We had 10.4 million people in a four month period that we've put back into the workforce.,1,million people month period workforce,7
+309,Trump,That's a record the likes of which nobody's ever seen before.,0,record see,2
+310,Trump,And he wants to close down the...,0,want close,5
+311,Trump,He will shut it down again.,0,shut,5
+312,Trump,He will destroy this country.,0,destroy country,2
+313,Trump,"A lot of people, between drugs and alcohol and depression, when you start shutting it down, you take a look at what's happening at some of your Democrat-run states where they have these tough shutdowns.",1,lot people drug alcohol depression start shut look happen democrat run state tough shutdown,2
+314,Trump,And I'm telling you it's because they don't want to open it.,1,tell want open,5
+315,Trump,"One of them came out last week, you saw that, Oh, we're going to open up on November 9th.",0,come week see go open november th,2
+316,Trump,Why November 9th?,0,november th,2
+317,Trump,Because it's after the election.,0,election,5
+318,Trump,They think they're hurting us by keeping them closed.,1,think hurt keep close,9
+319,Trump,They're hurting people.,1,hurt people,7
+320,Trump,People know what to do.,1,people know,6
+321,Trump,They can social distance.,1,social distance,2
+322,Trump,"They can wash their hands, they can wear masks.",1,wash hand wear mask,2
+323,Trump,"They can do whatever they want, but they got to open these states up.",1,want get open state,5
+324,Trump,"When you look at North Carolina, when you look, and these governors are under siege, Pennsylvania, Michigan, and a couple of others, you got to open these states up.",1,look north carolina look governor siege pennsylvania michigan couple get open state,2
+325,Trump,It's not fair.,0,fair,2
+326,Trump,You're talking about almost it's like being in prison.,1,talk prison,2
+327,Trump,"And you look at what's going on with divorce, look at what's going on with alcoholism and drugs.",1,look go divorce look go alcoholism drug,2
+328,Trump,"It's a very, very sad thing.",1,sad thing,2
+329,Trump,And he'll close down the whole country.,0,close country,2
+330,Trump,This guy will close down the whole country and destroy our country.,1,guy close country destroy country,2
+331,Trump,"Our country is coming back incredibly well, setting records as it does it.",1,country come incredibly set record,2
+332,Trump,"We don't need somebody to come in and say, Let's shut it down.",1,need somebody come let shut,0
+333,Trump,That's wrong.,0,wrong,9
+334,Trump,I have to respond to that.,0,respond,2
+335,Trump,"Excuse me, he made a statement.",0,excuse statement,2
+336,Trump,"No, people want their schools open.",1,people want school open,7
+337,Trump,They don't want to be shut down.,1,want shut,5
+338,Trump,They don't want their state shut down.,0,want state shut,5
+339,Trump,They want their restaurants.,0,want restaurant,5
+340,Trump,I look at New York.,0,look new york,2
+341,Trump,It's so sad what's happening in New York.,0,sad happen new york,2
+342,Trump,"It's almost like a ghost town, and I'm not sure it can ever recover what they've done to New York.",0,ghost town sure recover new york,2
+343,Trump,People want their places open.,0,people want place open,7
+344,Trump,They want to get back to their lives.,1,want life,5
+345,Trump,"They'll be careful, but they want their schools open.",0,careful want school open,5
+346,Trump,I'm the one that brought back football.,0,bring football,2
+347,Trump,"By the way, I brought back Big Ten football.",1,way bring big football,2
+348,Trump,It was me and I'm very happy to do it-,0,happy it,2
+349,Trump,... and people of Ohio are very proud of me.,1,people ohio proud,7
+350,Trump,And you know how I found out?,1,know find,6
+352,Trump,"I paid millions of dollars in taxes, millions of dollars of income tax.",0,pay million dollar taxis million dollar income tax,3
+353,Trump,"And let me just tell you, there was a story in one of the papers that paid-",0,let tell story paper paid,0
+354,Trump,"I paid $38 million one year, I paid $27 million one year.",1,pay million year pay million year,1
+355,Trump,"You'll see it as soon as it's finished, you'll see it.",1,soon finish,2
+356,Trump,"You know, if you wanted to, go to the Board of Elections.",1,know want board election,5
+357,Trump,"There's 118 page or so report that says everything I have, every bank I have, I'm totally under leveraged because the assets are extremely good, and I built a great company.",1,page report say bank totally leveraged asset extremely good build great company,2
+358,Trump,But let me tell you-,0,let tell you,0
+359,Trump,Let me-,0,let me,0
+360,Trump,Millions of dollars.,0,million dollar,3
+361,Trump,"Millions of dollars, yes.",0,million dollar yes,3
+362,Trump,Millions of dollars.,0,million dollar,3
+365,Trump,But let me just tell you-,0,let tell you,0
+366,Trump,"Chris, let me just say something, that it was the tax laws.",1,chris let tax law,0
+367,Trump,I don't want to pay tax.,1,want pay tax,5
+368,Trump,"Before I came here, I was a private developer, I was a private business people.",1,come private developer private business people,7
+369,Trump,"Like every other private person, unless they're stupid, they go through the laws, and that's what it is.",1,private person stupid law,0
+370,Trump,He passed a tax bill that gave us all these privileges for depreciation and for tax credits.,1,pass tax bill give privilege depreciation tax credit,2
+371,Trump,"We build the building and we get tax credits, like the hotel on Pennsylvania Avenue.",1,build building tax credit hotel pennsylvania avenue,2
+372,Trump,"Which by the way, was given to me by the Obama administration, if you can believe that.",1,way give obama administration believe,2
+373,Trump,"Now the man got fired right after that happened, but that's-",0,man get fire right happen is,2
+374,Trump,That's okay.,0,okay,2
+375,Trump,But why didn't you do it over the last 25 years?,0,year,1
+376,Trump,Why didn't you do it over the last 25 years?,0,year,1
+377,Trump,You were a Senator and  -,0,senator,2
+378,Trump,"Hey, Joe, let me just tell you, Joe.",0,joe let tell joe,0
+379,Trump,"In 47 months, I've done more than you've done in 47 years, Joe.",0,month year joe,1
+380,Trump,We've done things that you never even thought of doing.,1,thing think,9
+381,Trump,"Including fixing the broken military that you gave me, including taking care of your debts.",1,include fix broken military give include take care debt,2
+382,Trump,"Why didn't you do it before, when you were vice president with Obama?",0,vice president obama,2
+383,Trump,I got it done.,0,get,2
+384,Trump,And you know what happened?,0,know happen,6
+385,Trump,Our economy boomed like it's never boomed before.,0,economy boom boom,2
+386,Trump,Excuse me.,0,excuse,2
+387,Trump,They had the slowest economic recovery since 1929.,1,slow economic recovery,2
+388,Trump,It was the slowest recovery.,0,slow recovery,2
+389,Trump,"Also, they took over something that was down here.",0,take,2
+390,Trump,All you had to do is turn on the lights and you pick up a lot.,0,turn light pick lot,8
+391,Trump,"But they had the slowest economic recovery since 1929, and let me tell you about the stock market.",0,slow economic recovery let tell stock market,0
+392,Trump,"When the stock market goes up, that means jobs.",1,stock market go mean job,2
+393,Trump,It also means 401ks.,1,mean ks,2
+394,Trump,"If you got in, if you ever became president with your ideas, you want to terminate my taxes.",1,get president idea want terminate taxis,5
+395,Trump,"I'll tell you what, you'll lose.",1,tell lose,0
+396,Trump,Half of the companies that have poured in here will leave.,1,half company pour leave,2
+397,Trump,"And plenty of companies that are already here, they'll leave for other places.",0,plenty company leave place,2
+398,Trump,"They will leave and you will have a depression, the likes of which you've never seen.",1,leave depression see,2
+399,Trump,It wasn't blooming.,0,bloom,2
+400,Trump,He was in booming.,0,boom,2
+401,Trump,It was the weakest recovery since 1929.,0,weak recovery,2
+402,Trump,When COVID came along.,0,covid come,2
+403,Trump,"Excuse me, Chris, wait.",0,excuse chris wait,0
+404,Trump,Chris.,0,chris,0
+405,Trump,"They said it would take... No, you're on number two.",0,say,4
+406,Trump,"Chris, Chris.",0,chris chris,0
+407,Trump,They said it would take-,1,say take,4
+408,Trump,... a miracle to bring back manufacturing.,1,miracle bring manufacturing,2
+409,Trump,"I brought back 700,000 jobs.",1,bring job,2
+410,Trump,They brought back nothing.,0,bring,2
+411,Trump,They gave up on manufacturing.,0,give manufacturing,2
+412,Trump,... standard fare.,0,standard fare,2
+413,Trump,He totally gave up on manufacturing.,0,totally give manufacturing,2
+414,Trump,Ohio had the best year it's ever had last year.,0,ohio good year year,1
+415,Trump,Michigan had the best year they've ever had.,0,michigan good year,1
+416,Trump,"Many car companies came in from Germany, from Japan, went to Michigan, went to Ohio and they didn't come in with you.",1,car company come germany japan go michigan go ohio come,2
+418,Trump,China ate your lunch-  .,0,china eat lunch,2
+419,Trump,"China ate your lunch, Joe.",0,china eat lunch joe,2
+420,Trump,And no wonder your son goes in and he takes out billions of dollars.,1,wonder son go take billion dollar,3
+421,Trump,He takes out billions of dollars to manage.,0,take billion dollar manage,3
+422,Trump,He makes millions of dollars.,1,make million dollar,3
+423,Trump,"And also, while we're at it, why is it just out of curiosity, the mayor of Moscow's wife gave you a son three and a half million dollars?",1,curiosity mayor moscow wife give son half million dollar,3
+424,Trump,What did he do to deserve it?,0,deserve,2
+425,Trump,What did he do with-,0,with,2
+426,Trump,"... to deserve $183,000?",0,deserve,2
+427,Trump,"Oh really, he didn't get three and a half million?",0,half million,3
+428,Trump,"Well wait, he didn't get three and a half million dollars, Joe?",0,wait half million dollar joe,3
+429,Trump,He got three and a half million-,0,get half million,3
+430,Trump,... dollars.,0,dollar,3
+431,Trump,It's a fact.,0,fact,2
+432,Trump,"Did Burisma pay him 183,000 a month, with no experience in energy?",0,burisma pay month experience energy,2
+433,Trump,I think he did.,0,think,9
+434,Trump,The media.,0,medium,2
+435,Trump,"By the media, because they refuse to talk about it-",0,medium refuse talk it,2
+436,Trump,... because they're embarrassed.,0,embarrassed,2
+437,Trump,"So let me ask you this, Joe-  .",0,let ask joe,0
+438,Trump,He got three and a half million dollars from Moscow.,0,get half million dollar moscow,3
+439,Trump,I'd like to know who they are.,0,know,6
+440,Trump,I'll fire them.,0,fire,2
+441,Trump,Some people don't do a good job.,0,people good job,7
+442,Trump,"Hey, let me just tell you, Joe-",0,let tell joe,0
+443,Trump,"Three and a half million, Joe.",0,half million joe,3
+444,Trump,Why did he deserve three and a half million from Moscow?,0,deserve half million moscow,3
+445,Trump,My family-,0,family,2
+446,Trump,My family lost a fortune by coming down and helping us with governance.,0,family lose fortune come help governance,2
+447,Trump,Every single one of them lost a fortune-,0,single lose fortune,2
+448,Trump,"Chris, can I be honest?",0,chris honest,0
+449,Trump,It's a very important question-,0,important question,2
+450,Trump,He stood up-,0,stand up,2
+451,Trump,... and the threatened Ukraine-,0,threaten ukraine,2
+452,Trump,... with a billion dollars-,0,billion dollars,2
+453,Trump,"Well, that's all right, but he does plenty.",0,right plenty,2
+454,Trump,He does plenty.,0,plenty,2
+455,Trump,"Oh yeah, sure.",0,sure,2
+456,Trump,That's true.,0,true,2
+457,Trump,So-,0,so,2
+458,Trump,"You did a crime bill, 1994, where you call them super predators.",1,crime bill super predator,2
+459,Trump,African-Americans are super predators and they've never forgotten it.,1,african americans super predator forget,2
+460,Trump,They've never forgotten it.,0,forget,2
+461,Trump,"So you did that and they call you a super predator and I'm letting people out of jail now, that you have treated the African-American population community, you have treated the black community about as bad as anybody in this country.",1,super predator let people jail treat african american population community treat black community bad anybody country,2
+462,Trump,"You did the 1990... And that's why, if you look at the polls, I'm doing better than any Republican has done in a long time, because they saw what you did.",1,look poll well republican long time see,2
+463,Trump,"You call them super predators, and you've called them worse than that.",0,super predator call bad,2
+464,Trump,"Because you look back at your testimony over the years, you've called them a lot worse than that.",0,look testimony year call lot bad,1
+465,Trump,"As far as the church is concerned and as far as the generals are concerned, we just got the support of 250 military leaders and generals, total support.",1,far church concern far general concern get support military leader general total support,2
+466,Trump,"Law enforcement, almost every law enforcement group in the United States.",1,law enforcement law enforcement group united states,0
+467,Trump,I have Florida.,1,florida,2
+468,Trump,I have Texas.,1,texas,2
+469,Trump,I have Ohio.,1,ohio,2
+471,Trump,"Excuse me, Portland, the sheriff just came out today and he said, I support President Trump.",1,excuse portland sheriff come today say support president trump,4
+472,Trump,I don't think you have any law enforcement.,0,think law enforcement,9
+473,Trump,You can't even say the word law enforcement.,0,word law enforcement,0
+474,Trump,"Because if you say those words, you're going to lose all of your radical left supporters.",0,word go lose radical left supporter,2
+475,Trump,"And why aren't you saying those words, Joe?",0,say word joe,4
+476,Trump,Why don't you say the words law enforcement?,0,word law enforcement,0
+477,Trump,Because you know what?,0,know,6
+478,Trump,"If called us in Portland, we would put out that fire in a half an hour.",1,call portland fire half hour,2
+479,Trump,"But they won't do it, because they're run by radical left Democrats.",1,run radical left democrat,2
+480,Trump,"If you look at Chicago, if you look at any place you want to look, Seattle, they heard we were coming in the following day and they put up their hands and we got back Seattle.",1,look chicago look place want look seattle hear come follow day hand get seattle,2
+481,Trump,"Minneapolis, we got it back, Joe, because we believe in law and order, but you don't.",1,minneapolis get joe believe law order,0
+482,Trump,"The top 10 cities and just about the top 40 cities are run by Democrats, and in many cases radical left.",1,city city run democrat case radical left,2
+483,Trump,"And they've got you wrapped around their finger, Joe, to a point where you don't want to say anything about law and order.",0,get wrap finger joe point want law order,0
+484,Trump,"And I'll tell you what, the people of this country want and demand law and order and you're afraid to even say it.",1,tell people country want demand law order afraid,0
+485,Trump,What is peaceful protest?,0,peaceful protest,2
+486,Trump,When they run through the middle of the town-,0,run middle town,2
+487,Trump,... and burn down your stores and kill people all over the place-  .,0,burn store kill people place,7
+488,Trump,Fine.,0,fine,2
+489,Trump,I ended it because it's racist.,0,end racist,2
+490,Trump,I ended it because a lot of people were complaining that they were asked to do things that were absolutely insane.,0,end lot people complain ask thing absolutely insane,8
+491,Trump,"That it a radical revolution that was taking place in our military, in our schools, all over the place.",1,radical revolution take place military school place,2
+492,Trump,"And you know it, and so does everybody else.",0,know everybody,6
+493,Trump,And he would know it-,0,know it,6
+494,Trump,"If you were a certain person, you had no status in life.",1,certain person status life,2
+495,Trump,It was sort of a reversal.,1,sort reversal,2
+496,Trump,"And if you look at the people, we were paying people hundreds of thousands of dollars to teach very bad ideas and frankly, very sick ideas.",1,look people pay people hundred thousand dollar teach bad idea frankly sick idea,7
+497,Trump,"And really, they were teaching people to hate our country And I'm not going to do that.",1,teach people hate country go,7
+498,Trump,I'm not going to allow that to happen.,0,go allow happen,2
+499,Trump,We have to go back to the core values of this country.,1,core value country,2
+500,Trump,They were teaching people that our country is a horrible place.,1,teach people country horrible place,7
+501,Trump,It's a racist place.,1,racist place,2
+502,Trump,And they were teaching people to hate our country.,0,teach people hate country,7
+503,Trump,And I'm not going to allow that to happen.,1,go allow happen,2
+504,Trump,You just don't know.,0,know,6
+505,Trump,"During the Obama-Biden administration, there was tremendous division.",0,obama biden administration tremendous division,2
+506,Trump,There was hatred.,0,hatre,2
+507,Trump,"You look at Ferguson, you look at, or you go to very...",0,look ferguson look,2
+508,Trump,"Many places, look at Oakland.",0,place look oakland,2
+509,Trump,Look what happened in Oakland.,0,look happen oakland,2
+510,Trump,Look what happened in Baltimore.,0,look happen baltimore,2
+511,Trump,Look what happened...,0,look happen,2
+512,Trump,"Frankly, it was more violent than what I'm even seeing now.",0,frankly violent see,2
+513,Trump,But the reason-,0,reason,2
+514,Trump,... is that the Democrats that run these cities-,0,democrats run cities,2
+515,Trump,"... don't want to talk, like you, about law and order.",0,want talk law order,0
+516,Trump,And you still haven't mentioned.,0,mention,2
+517,Trump,Are you in favor of law and order?,0,favor law order,0
+518,Trump,Are you in favor of law and order?,0,favor law order,0
+519,Trump,Okay.,0,okay,2
+520,Trump,It went down much more in ours.,0,go,2
+521,Trump,The places we had trouble were democratic run cities-,0,place trouble democratic run cities,2
+522,Trump,"I think as a party issue, you can bring in a couple of examples but if you look at Chicago, what's going on in Chicago where a 53 people were shot and eight died shot, if you look at New York where it's going up, like nobody's ever seen anything.",1,think party issue bring couple example look chicago go chicago people shoot die shot look new york go see,2
+523,Trump,"The numbers are going up a 100%, 150%, 200% crime, it is crazy what's going on and he doesn't want to say law and order because he can't because he'll lose his radical left supporters and once he does that, it's over with.",1,go crime crazy go want law order lose radical left supporter,0
+524,Trump,"But if he ever got to run this country and they ran it the way he would want to run it, we would have by the way our suburbs would be gone.",1,get run country run way want run way suburb go,2
+525,Trump,And you would see problems like you've never seen before.,0,problem see,2
+526,Trump,"Oh, I know suburbs so much that you.",0,know suburb,6
+527,Trump,That's not what they are talking about this.,0,talk,2
+529,Trump,He's talking about defunding the police.,0,talk defunde police,2
+530,Trump,He doesn't have any law support.,0,law support,0
+531,Trump,He has no law enforcement.,0,law enforcement,0
+533,Trump,"Oh, really, who do you have name one group that supports you name one group that came out and supported you.",0,group support group come support,2
+534,Trump,Go ahead.,0,ahead,2
+535,Trump,Think we have time.,0,think time,9
+536,Trump,"No, no think right now.",0,think right,9
+537,Trump,Name one law enforcement group that came out in support of you.,0,law enforcement group come support,0
+539,Trump,I sent in the US Marshalls to get the killer of a young man in the middle of the street and they shot him for three days Portland didn't do anything.,0,send marshall killer young man middle street shoot day portland,2
+540,Trump,I sent in the US Marshals they took care of business.,0,send marshal take care business,2
+541,Trump,I don't know who said that.,0,know say,4
+542,Trump,I don't think she said that.,0,think say,4
+543,Trump,I don't think so.,0,think,9
+544,Trump,Does it mean I have to answer his stuff.,0,mean answer stuff,2
+545,Trump,"Wait a second, you have made a statement.",0,wait second statement,2
+546,Trump,I would love to end it.,1,love end,2
+547,Trump,"I'll send in the National Guard, it would be over.",0,send national guard,2
+548,Trump,That'd be no problem.,0,problem,2
+549,Trump,But I don't want to accept the National Guard.,0,want accept national guard,5
+550,Trump,"Sure, I'm will to do that.",0,sure,2
+551,Trump,I would say almost everything I see is from the left wing not from the right wing.,0,left wing right wing,2
+552,Trump,I'm willing to do anything.,1,willing,2
+553,Trump,I want to see peace.,1,want peace,5
+554,Trump,What do you want to call them?,0,want,5
+555,Trump,"Give me a name, give me a name, go ahead who do you want me to condemn.",0,ahead want condemn,5
+556,Trump,"Proud Boys, stand back and stand by.",0,proud boy stand stand,2
+557,Trump,But I'll tell you what somebody's got to do something about Antifa and the left because this is not a right wing problem this is a left wing.,0,tell somebody get antifa left right wing problem left wing,2
+558,Trump,Oh you got to be kidding me.,0,get kid,2
+559,Trump,"Well, then you know what, he's wrong.",0,know wrong,6
+560,Trump,Antifa is bad.,0,antifa bad,2
+561,Trump,"You know what, Antifa is a dangerous radical group.",1,know antifa dangerous radical group,2
+562,Trump,"And you ought to be careful of them, they'll over throw you.",0,ought careful throw,2
+563,Trump,Because there is never been an administration or president who has done more than I've done in a period of three and a half years.,1,administration president period half year,1
+564,Trump,"And that's despite the impeachment hoax and you so what happened today with Hillary Clinton, where it was a whole big con job.",0,despite impeachment hoax happen today hillary clinton big con job,2
+565,Trump,"But despite going through all of these things where I had a fight, both flanks and behind me and above there has never been an administration that's done what I've done.",0,despite go thing fight flank administration,2
+566,Trump,"The greatest, before COVID came in the greatest economy in history, lowest unemployment numbers, everything was good.",1,great covid come great economy history low unemployment good,2
+567,Trump,Everything was going.,0,go,2
+568,Trump,"And by the way, there was unity going to happen.",1,way unity go happen,2
+569,Trump,"People were calling me for the first time in years, they were calling and they were saying it's time maybe and then what happened?",1,people call time year call say time maybe happen,1
+570,Trump,We got hit.,1,get hit,2
+571,Trump,But now we're building it back up again.,1,build,2
+572,Trump,"A rebuilding of the military, including Space Force and all of the other things.",1,rebuilding military include space force thing,2
+573,Trump,"A fixing of the VA which was a mess under him, 308,000 people died because they didn't have proper health care.",1,fixing va mess people die proper health care,7
+574,Trump,It was a mess.,1,mess,2
+575,Trump,"And we now got a 91% approval rating at the VA, our vets.",1,get approval rating va vet,2
+576,Trump,We take care of our vets.,1,care vet,2
+577,Trump,But we've rebuilt our military.,1,rebuild military,2
+578,Trump,"And I'll tell you something, some people say maybe the most important by the end of the first term I'll have approximately 300 Federal judges and Court of Appeals judges, 300 and hopefully three great Supreme Court judges, justices that is a record the likes of which very few people and one of the reasons I'll have so many judges because President Obama and him left me 128 judges to fill.",1,tell people maybe important end term approximately federal judge court appeal judge hopefully great supreme court judge justice record people reason judge president obama leave judge fill,2
+579,Trump,"When you leave office, you don't leave any judges.",0,leave office leave judge,2
+581,Trump,"They left 128 openings and if I were a member of his party, because they have a little different philosophy, I'd say, if you left us 128 openings you can't be a good president.",0,leave opening member party little different philosophy leave opening good president,2
+582,Trump,"You can't be a good vice president but I want to thank you because it gives us almost, it'll probably be above that number.",0,good vice president want thank give probably,5
+583,Trump,"By the end of this term, 300 judges.",1,end term judge,2
+584,Trump,It's a record.,1,record,2
+585,Trump,You son got three and a half million dollars.,0,son get half million dollar,3
+586,Trump,"Are you talking Hunter, are you talking about Hunter.",0,talk hunter talk hunter,2
+587,Trump,I don't know Beau.,0,know beau,6
+588,Trump,I know Hunter.,0,know hunter,6
+589,Trump,Hunter got thrown out of the military.,0,hunter get throw military,2
+590,Trump,He was thrown out dishonorably discharged.,0,throw dishonorably discharge,2
+591,Trump,For cocaine use.,0,cocaine use,2
+592,Trump,And he didn't have a job until you became vice president.,0,job vice president,2
+593,Trump,"Once you became vice president he made a fortune in Ukraine, in China, in Moscow and various other places.",0,vice president fortune ukraine china moscow place,2
+594,Trump,He made a fortune and he didn't have a job.,0,fortune job,2
+595,Trump,But why was he given tens of millions of dollars?,0,give ten million dollar,3
+596,Trump,I know but when somebody gets three and a half million dollars from the Mayor of Moscow.,0,know somebody get half million dollar mayor moscow,3
+597,Trump,I want crystal clean water and air.,1,want crystal clean water air,5
+598,Trump,I want beautiful clean air.,0,want beautiful clean air,5
+599,Trump,We have now the lowest carbon...,1,low carbon,2
+600,Trump,"If you look at our numbers right now, we are doing phenomenally.",1,look right phenomenally,2
+601,Trump,But I haven't destroyed our businesses.,1,destroy business,2
+602,Trump,Our businesses aren't put out of commission.,0,business commission,2
+603,Trump,"If you look at the Paris Accord, it was a disaster from our standpoint.",1,look paris accord disaster standpoint,2
+604,Trump,And people are actually very happy about what's going on because our businesses are doing well.,1,people actually happy go business,7
+605,Trump,"As far as the fires are concerned, you need forest management.",1,far fire concern need forest management,2
+606,Trump,"In addition to everything else, the forest floors are loaded up with trees, dead trees that are years old and they're like tinder and leaves and everything else.",1,addition forest floor load tree dead tree year old tinder leave,2
+607,Trump,You drop a cigarette in there the whole forest burns down.,0,drop cigarette forest burn,2
+608,Trump,You've got to have forest management.,1,get forest management,2
+609,Trump,I believe that we have to do everything we can to have immaculate air immaculate water and do whatever else we can that's good.,1,believe immaculate air immaculate water good,2
+610,Trump,"We're planting a billion trees, the Billion Tree Project and it's very exciting for a lot of people.",1,plant billion tree billion tree project exciting lot people,8
+611,Trump,"I think a lot of things do, but I think to an extent, yes.",0,think lot thing think extent yes,9
+612,Trump,"I think to an extent, yes, but I also think we have to do better management of our forest.",1,think extent yes think well management forest,9
+613,Trump,Every year I get the call.,0,year,1
+614,Trump,"California's burning, California's burning.",0,california burn california burn,2
+615,Trump,"If that was cleaned, if that were, if you had forest management, good forest management, you wouldn't be getting those calls.",1,clean forest management good forest management get call,2
+616,Trump,"In Europe, they live they're forest cities.",1,europe live forest city,2
+617,Trump,They call forest cities.,1,forest city,2
+618,Trump,They maintain their forest.,1,maintain forest,2
+619,Trump,They manage their forest.,0,manage forest,2
+620,Trump,"I was with the head of a major country, it's a forest city.",1,head major country forest city,2
+621,Trump,"He said, Sir, we have trees that are far more, they ignite much easier than California.",1,say sir tree far ignite easy california,4
+622,Trump,There shouldn't be that problem.,1,problem,2
+623,Trump,I spoke with the Governor about it.,1,speak governor,2
+624,Trump,I'm getting along very well with the governor.,0,get governor,2
+625,Trump,"But I said, At some point you can't every year have hundreds of thousands of acres of land just burned to the ground.",1,say point year hundred thousand acre land burn ground,2
+626,Trump,That's burning down because of a lack of management.,1,burn lack management,2
+627,Trump,Because it was driving energy prices through the sky.,1,drive energy price sky,2
+628,Trump,"Well, not really because what's happening is the car is much less expensive and it's a much safer car and you talk it about a tiny difference.",1,happen car expensive safe car talk tiny difference,2
+629,Trump,And then what would happen because of the cost of the car you would have at least double and triple the number of cars purchased.,1,happen cost car double triple car purchase,2
+630,Trump,"We have the old slugs out there that are 10, 12 years old.",1,old slug year old,1
+631,Trump,"If you did that, the car would be safer.",1,car safe,2
+632,Trump,"It would be much cheaper by $3,500.",1,cheap,2
+633,Trump,"No, but you would take a lot of cars off the market because people would be able to afford a car.",1,lot car market people able afford car,8
+634,Trump,"Now, by the way, we're going to see how that turns out.",1,way go turn,2
+635,Trump,"But a lot of people agree with me, many people.",1,lot people agree people,7
+636,Trump,The car has gotten so expensive because they have computers all over the place for an extra little bit of gasoline.,1,car get expensive computer place extra little bit gasoline,2
+637,Trump,And I'm okay with electric cars too.,1,okay electric car,2
+638,Trump,I think I'm all for electric cars.,0,think electric car,9
+639,Trump,I've given big incentives for electric cars but what they've done in California is just crazy.,1,give big incentive electric car california crazy,2
+640,Trump,Not true.,0,true,2
+641,Trump,Not true-,0,true,2
+642,Trump,He's talking about the Green New Deal.,0,talk green new deal,2
+643,Trump,"And it's not 2 billion   or 20 billion, as you said  .",0,billion billion say,4
+644,Trump,It's $100 trillion.,0,trillion,2
+645,Trump,And rebuild the building.,0,rebuild building,2
+646,Trump,It's the dumbest-,0,dumbest,2
+647,Trump,... most ridiculous   where two car systems are out-,0,ridiculous car system out,2
+648,Trump,... where they want to take out the cows too.,0,want cow,5
+649,Trump,"That's not true either, right?",0,true right,2
+650,Trump,This is a 100 trillion-,0,trillion,2
+651,Trump,That's more money than our country could make in 100 years  -,0,money country year,1
+652,Trump,100 million dollars.,0,million dollar,3
+653,Trump,I never said that at all-,0,say all,4
+654,Trump,You make up a lot-,0,lot,8
+655,Trump,"Wait a minute, Chris.",0,wait minute chris,0
+656,Trump,So why didn't he do it for 47 years?,0,year,1
+657,Trump,You were vice president-,0,vice president,2
+658,Trump,So why didn't you get the world... China sends up real dirt into the air.,0,world china send real dirt air,2
+659,Trump,Russia does.,0,russia,2
+660,Trump,India does.,0,india,2
+662,Trump,We're supposed to be good.,1,suppose good,2
+663,Trump,"And by the way, he made a couple of statements.",1,way couple statement,2
+664,Trump,The Green New Deal is a hundred trillion dollars.,1,green new deal trillion dollar,2
+665,Trump,He made a statement about the military.,0,statement military,2
+666,Trump,He said I said something about the military.,0,say say military,4
+667,Trump,"He and his friends made it up, and then they went with it.",0,friend go,2
+668,Trump,I never said it.,0,say,4
+669,Trump,He called the military stupid bastards.,0,call military stupid bastard,2
+670,Trump,He said it on tape.,0,say tape,4
+672,Trump,You're on tape-,0,tape,2
+674,Trump,"Oh, well, that's a big statement.",0,big statement,2
+675,Trump,You just lost the radical left.,0,lose radical left,2
+676,Trump,"So when I listen to Joe talking about a transition, there has been no transition from when I won.",0,listen joe talk transition transition win,2
+677,Trump,I won that election.,0,win election,5
+678,Trump,"And if you look at crooked Hillary Clinton, if you look at all of the different people, there was no transition, because they came after me trying to do a coup.",1,look crooked hillary clinton look different people transition come try coup,2
+679,Trump,They came after me spying on my campaign.,0,come spy campaign,2
+680,Trump,"They started from the day I won, and even before I won.",0,start day win win,2
+681,Trump,"From the day I came down the escalator with our first lady, they were a disaster.",0,day come escalator lady disaster,2
+682,Trump,"They were a disgrace to our country, and we've caught them.",0,disgrace country catch,2
+683,Trump,We've caught them all.,0,catch,2
+684,Trump,We've got it all on tape.,0,get tape,2
+685,Trump,We've caught them all.,1,catch,2
+686,Trump,"And by the way, you gave the idea for the Logan Act against General Flynn.",1,way give idea logan act general flynn,2
+687,Trump,"You better take a look at that, because we caught you in a sense, and President Obama was sitting in the office.",1,better look catch sense president obama sit office,2
+688,Trump,He knew about it too.,0,know,6
+689,Trump,So don't tell me about a free transition.,0,tell free transition,0
+690,Trump,"As far as the ballots are concerned, it's a disaster.",1,far ballot concern disaster,2
+691,Trump,"A solicited ballot, okay, solicited, is okay.",1,solicited ballot okay solicited okay,2
+692,Trump,You're soliciting.,0,solicit,2
+693,Trump,You're asking.,1,ask,2
+694,Trump,They send it back.,0,send,2
+695,Trump,You send it back.,1,send,2
+697,Trump,If you have an unsolicited...,0,unsolicited,2
+698,Trump,They're sending millions of ballots all over the country.,1,send million ballot country,3
+699,Trump,There's fraud.,1,fraud,2
+700,Trump,They found them in creeks.,0,find creek,2
+701,Trump,"They found some, just happened to have the name Trump just the other day in a wastepaper basket.",0,find happen trump day wastepaper basket,2
+702,Trump,They're being sent all over the place.,0,send place,2
+703,Trump,They sent two in a Democrat area.,0,send democrat area,2
+704,Trump,They sent out a thousand ballots.,1,send thousand ballot,2
+705,Trump,Everybody got two ballots.,0,everybody get ballot,2
+706,Trump,This is going to be a fraud like you've never seen.,1,go fraud see,2
+707,Trump,"The other thing, it's nice.",0,thing nice,2
+708,Trump,"On November 3rd, you're watching, and you see who won the election.",1,november rd watch win election,5
+709,Trump,And I think we're going to do well because people are really happy with the job we've done.,1,think go people happy job,9
+710,Trump,But you know what?,1,know,6
+711,Trump,We won't know.,1,know,6
+712,Trump,We might not know for months because these ballots are going to be all over.,1,know month ballot go,6
+713,Trump,Take a look at what happened in Manhattan.,1,look happen manhattan,2
+714,Trump,Take a look at what happened in New Jersey.,1,look happen new jersey,2
+715,Trump,Take a look at what happened in Virginia and other places.,1,look happen virginia place,2
+716,Trump,"They're not losing 2%, 1%, which by the way is too much.",1,lose way,2
+717,Trump,An election could be won or lost with that.,1,election win lose,5
+718,Trump,They're losing 30 and 40%.,1,lose,2
+719,Trump,"It's a fraud, and it's a shame.",1,fraud shame,2
+720,Trump,"And can you imagine where they say, You have to have your ballot in by November 10th.",1,imagine ballot november th,2
+721,Trump,November 10th.,1,november th,2
+722,Trump,"That's seven days after the election, in theory, should have been announced.",1,seven day election theory announce,5
+723,Trump,We have major states   with that-,1,major state that,2
+724,Trump,... all run by Democrats-,0,run democrats,2
+725,Trump,All run by Democrats.,0,run democrat,2
+726,Trump,It's a rigged election.,1,rig election,5
+728,Trump,"I think I'm counting on them to look at the ballots, definitely.",1,think count look ballot definitely,9
+729,Trump,"I hope we don't need them, in terms of the election itself.",0,hope need term election,5
+730,Trump,"But for the ballots, I think so, because what's happening is incredible.",0,ballot think happen incredible,9
+731,Trump,I read today where at least 1% of the ballots for 2016 were invalidated.,0,read today ballot invalidate,2
+735,Trump,They throw them out-,0,throw out,2
+736,Trump,... left and right.,0,left right,2
+737,Trump,What you do is you go and vote.,1,vote,2
+738,Trump,"You do a solicited ballot, and that's okay-",1,solicit ballot okay,2
+739,Trump,You go and vote.,1,vote,2
+740,Trump,You go and vote-,0,vote,2
+741,Trump,"You either do, Chris, a solicited ballot, where you're sending it in, they're sending it back and you're sending.",0,chris solicit ballot send send send,2
+742,Trump,They have mailmen with lots of it.,0,mailman lot,8
+743,Trump,Did you see what's going on?,0,go,2
+744,Trump,"Take a look at West Virginia, mailman selling the ballots.",0,look west virginia mailman sell ballot,2
+745,Trump,They're being sold.,0,sell,2
+746,Trump,They're being dumped in rivers.,0,dump river,2
+747,Trump,This is a horrible thing for our country.,0,horrible thing country,2
+748,Trump,This is not going to end well.,0,go end,2
+749,Trump,This is not going to end well-,0,go end well,2
+750,Trump,You're wrong.,0,wrong,9
+751,Trump,You're wrong  .,0,wrong,9
+752,Trump,I love counting the votes  -,0,love count vote,2
+753,Trump,"Chris, he's so wrong when he makes a statement like that-",0,chris wrong make statement that,2
+754,Trump,Excuse me  -,0,excuse,2
+755,Trump,You know it can't be done.,0,know,6
+756,Trump,"You know it can't, and already, there's been fraud  -",0,know fraud,6
+757,Trump,Could be months-,0,months,2
+758,Trump,"I'm urging my supporters to go in to the polls and watch very carefully, because that's what has to happen.",1,urge supporter poll watch carefully happen,2
+759,Trump,I am urging them to do it.,0,urge,2
+760,Trump,"As you know, today there was a big problem.",1,know today big problem,6
+761,Trump,"In Philadelphia, they went in to watch.",1,philadelphia go watch,2
+762,Trump,"They're called poll watchers, a very safe, very nice thing.",0,call poll watcher safe nice thing,2
+763,Trump,They were thrown out.,0,throw,2
+764,Trump,They weren't allowed to watch.,1,allow watch,2
+765,Trump,You know why?,1,know,6
+766,Trump,Because bad things happen in Philadelphia.,1,bad thing happen philadelphia,2
+767,Trump,Bad things.,0,bad thing,2
+768,Trump,And I am urging my people.,0,urge people,7
+769,Trump,I hope it's going to be a fair election.,1,hope go fair election,5
+770,Trump,If it's a fair election-,1,fair election,5
+772,Trump,I am 100% on board.,1,board,2
+773,Trump,"But if I see tens of thousands of ballots being manipulated, I can't go along with that.",1,ten thousand ballot manipulate,2
+774,Trump,And I'll tell you why-,0,tell why,0
+775,Trump,... from a common sense-,0,common sense,2
+776,Trump,I'll tell you what it means-,0,tell means,0
+777,Trump,It means you have a fraudulent election.,1,mean fraudulent election,5
+778,Trump,You're sending out 80 million ballots-,1,send million ballots,3
+779,Trump,They're not equipped...,0,equip,2
+780,Trump,"These people aren't equipped to handle it, number one.",1,people equip handle,7
+781,Trump,"Number two, they cheat.",0,cheat,2
+782,Trump,They cheat.,1,cheat,2
+783,Trump,"Hey, they found ballots in a wastepaper basket three days ago, and they all had the name military ballots.",1,find ballot wastepaper basket day ago military ballot,2
+784,Trump,There were military.,1,military,2
+785,Trump,They all had the name Trump on them.,1,trump,2
+786,Trump,You think that's good?,0,think good,9
+787,Trump,It's already been established.,0,establish,2
+788,Trump,Take a look at Carolyn Maloney's race-,0,look carolyn maloney race,2
+789,Trump,I want to see an honest ballot cut-,0,want honest ballot cut,5
+790,Trump,I want to see an honest ballot count.,1,want honest ballot count,5
+791,Trump,And I think he does too-,0,think too,9
