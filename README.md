@@ -15,6 +15,8 @@ Packages required:
  - unicodedata
  - math
  - string
+ - matplotlib
+ - collections
  
 Order of running files:
  - Data Preprocessing.ipynb
