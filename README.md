@@ -19,7 +19,6 @@ Packages required:
  - collections
  
 Order of running files:
- - Data Preprocessing.ipynb
  - Sentence Preprocessing.ipynb
  - Data Statistics.ipynb
  - Clustering by Sentences.ipynb
